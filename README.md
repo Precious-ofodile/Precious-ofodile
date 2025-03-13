@@ -50,4 +50,4 @@ Motivated cybersecurity analyst with a strong foundation in network security, se
 
 ## Projects
 - <a href="https://github.com/Precious-ofodile/Automated-Access-List-in-Python">Automated Access List in Python</a>
-- SOC Automation Project
+- <a href="https://github.com/Precious-ofodile/Applying-Filters-to-SQL-Queries/tree/main">Applying Filters to SQL Queries</a>
