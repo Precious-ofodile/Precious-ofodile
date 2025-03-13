@@ -1,17 +1,11 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Precious
 <a href="https://www.linkedin.com/in/ofodile-precious-8859b4216/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+## Profile
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Motivated cybersecurity analyst with a strong foundation in network security, security policy, and organizational risk management. Seeking an entry-level cybersecurity role to apply my skills in threat analysis, incident response, and system protection while contributing to a secure IT environment.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
