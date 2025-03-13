@@ -55,5 +55,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- https://github.com/Precious-ofodile/Automated-Access-List-in-Python
 - SOC Automation Project
